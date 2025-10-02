@@ -13,11 +13,16 @@ A Flutter mobile app designed to help users with ADHD and mental health challeng
 **Functional:**  
 - 🔑 User authentication with **Firebase Auth** (signup, login, logout)  
 
-**UI Only (Coming Soon):**  
+**UI Only :**  
 - 📝 Task management interface  
 - 🎯 Focus mode screen with Pomodoro-style timer  
-- 📊 Progress tracking dashboard  
-- 🔔 Notifications and personalized goals  
+- 📊 Progress tracking dashboard
+
+**Coming Soon:** 
+- Full functionality for all UI features
+- Cloud storage and offline access
+- Push notifications
+- Push notifications 
 
 **General:**  
 - 📱 Clean and responsive design for Android & iOS  
