@@ -1,5 +1,10 @@
 # 🧠 Less – Mental Health & ADHD Support App
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev) 
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev) 
+
+
+
 A Flutter mobile app designed to help users with ADHD and mental health challenges stay organized, focused, and supported.  
 👉 Currently, this project contains the **UI implementation only** (no backend or state management yet).
 
@@ -29,11 +34,11 @@ The goal is to build apps that are **simple, helpful, and grounded in real user 
 ---
 
 ## 📂 Folder Structure
+
 lib/
-├── models/      # (UI models, if any)
-├── screens/     # All app screens
-├── widgets/     # Reusable UI components
-└── main.dart
+|– screens/     # All app screens
+|– widgets/     # Reusable UI components
+`– main.dart
 
 ---
 
