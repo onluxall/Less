@@ -36,9 +36,9 @@ The goal is to build apps that are **simple, helpful, and grounded in real user 
 ## 📂 Folder Structure
 
 lib/
-|– screens/     # All app screens
-|– widgets/     # Reusable UI components
-`– main.dart
+├── screens/
+├── widgets/
+└── main.dart
 
 ---
 
